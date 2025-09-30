@@ -70,6 +70,9 @@
   filter: sepia(20) hue-rotate(160deg) saturate(28) brightness(0.6) !important;
 }
 
+.filter_golden {
+  filter: sepia(20) hue-rotate(308deg) saturate(40) brightness(0.7) !important;
+}
 
 
 
